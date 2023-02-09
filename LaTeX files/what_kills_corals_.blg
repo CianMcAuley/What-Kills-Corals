@@ -12,6 +12,9 @@ I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Wiedemann2013"
 Warning--I didn't find a database entry for "Morgan2020"
 Warning--I didn't find a database entry for "Bruno2007"
+Warning--I didn't find a database entry for "Alison2022"
+Warning--I didn't find a database entry for "Million"
+Warning--I didn't find a database entry for "Elliot2016"
 Name 1 in "Collette, Bruce B., and Klaus Rützler" has a comma at the end for entry collette1977
 while executing---line 1023 of file apalike.bst
 Name 1 in "Collette, Bruce B., and Klaus Rützler" has a comma at the end for entry collette1977
@@ -20,45 +23,45 @@ Warning--empty booktitle in Coles2003
 Name 1 in "Collette, Bruce B., and Klaus Rützler" has a comma at the end for entry collette1977
 while executing---line 1098 of file apalike.bst
 Warning--empty journal in Manzello2012
-You've used 95 entries,
+You've used 106 entries,
             1935 wiz_defined-function locations,
-            1142 strings with 25754 characters,
-and the built_in function-call counts, 45675 in all, are:
-= -- 4377
-> -- 2523
-< -- 44
-+ -- 923
-- -- 900
-* -- 4337
-:= -- 7974
-add.period$ -- 292
-call.type$ -- 95
-change.case$ -- 916
-chr.to.int$ -- 92
-cite$ -- 97
-duplicate$ -- 1410
-empty$ -- 2816
-format.name$ -- 1039
-if$ -- 8685
+            1217 strings with 28597 characters,
+and the built_in function-call counts, 50991 in all, are:
+= -- 4871
+> -- 2841
+< -- 45
++ -- 1039
+- -- 1014
+* -- 4859
+:= -- 8919
+add.period$ -- 325
+call.type$ -- 106
+change.case$ -- 1028
+chr.to.int$ -- 103
+cite$ -- 108
+duplicate$ -- 1564
+empty$ -- 3134
+format.name$ -- 1166
+if$ -- 9679
 int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 95
-newline$ -- 479
-num.names$ -- 285
-pop$ -- 733
+missing$ -- 106
+newline$ -- 534
+num.names$ -- 318
+pop$ -- 822
 preamble$ -- 1
-purify$ -- 916
+purify$ -- 1028
 quote$ -- 0
-skip$ -- 1068
+skip$ -- 1179
 stack$ -- 0
-substring$ -- 3230
-swap$ -- 156
+substring$ -- 3595
+swap$ -- 167
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 570
+type$ -- 636
 warning$ -- 2
-while$ -- 362
+while$ -- 401
 width$ -- 0
-write$ -- 1244
+write$ -- 1387
 (There were 4 error messages)

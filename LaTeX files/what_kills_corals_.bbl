@@ -44,6 +44,12 @@ Ashok, A., Calcinai, B., and Edward, J. (2020).
   marine national park, southeast india.
 \newblock {\em The European Zoological Journal}, 87(1):1--11.
 
+\bibitem[Ayre and Willis, 1988]{Ayre1988}
+Ayre, D. and Willis, B. (1988).
+\newblock Population structure in the coral pavona cactus: clonal genotypes
+  show little phenotypic plasticity.
+\newblock {\em Marine Biology}, 99:495--505.
+
 \bibitem[Baird et~al., 2018]{Baird2018}
 Baird, A.~H., Madin, J.~S., {\'A}lvarez-Noriega, M., Fontoura, L., Kerry,
   J.~T., Kuo, C.-Y., Precoda, K., Torres-Pulliza, D., Woods, R.~M., Zawada,
@@ -113,6 +119,12 @@ Camp, E.~F., Schoepf, V., Mumby, P.~J., Hardtke, L.~A., Rodolfo-Metalpa, R.,
   from natural extreme environments.
 \newblock {\em Frontiers in Marine Science}, 5.
 
+\bibitem[Chan et~al., 2016]{Chan2016}
+Chan, N.~C., Wangpraseurt, D., K{\"u}hl, M., and Connolly, S.~R. (2016).
+\newblock Flow and coral morphology control coral surface ph: implications for
+  the effects of ocean acidification.
+\newblock {\em Frontiers in Marine Science}, 3:10.
+
 \bibitem[Coles and Bolick, 2007]{Coles2007}
 Coles, S. and Bolick, H. (2007).
 \newblock Invasive introduced sponge mycale grandis overgrows reef corals in
@@ -149,6 +161,18 @@ Eakin, C., Liu, G., Gomez, A., De~La~Cour, J., Heron, S., Skirving, W., Geiger,
 \newblock Global coral bleaching 2014--2017: status and an appeal for
   observations.
 \newblock {\em Reef Encounter}, 31(1):20--26.
+
+\bibitem[Elliott et~al., 2016]{Elliott2016}
+Elliott, J., Patterson, M., Vitry, E., Summers, N., and Miternique, C. (2016).
+\newblock Morphological plasticity allows coral to actively overgrow the
+  aggressive sponge terpios hoshinota (mauritius, southwestern indian ocean).
+\newblock {\em Marine Biodiversity}, 46:489--493.
+
+\bibitem[Erftemeijer et~al., 2012]{Erftemeijer2012}
+Erftemeijer, P.~L., Riegl, B., Hoeksema, B.~W., and Todd, P.~A. (2012).
+\newblock Environmental impacts of dredging and other sediment disturbances on
+  corals: a review.
+\newblock {\em Marine pollution bulletin}, 64(9):1737--1765.
 
 \bibitem[Fabricius, 2005]{Fabricius2005}
 Fabricius, K.~E. (2005).
@@ -404,10 +428,22 @@ Muir, P.~R., Wallace, C.~C., Pichon, M., and Bongaerts, P. (2018).
   mesophotic zone.
 \newblock {\em Proceedings of the Royal Society B}, 285(1893):20181987.
 
+\bibitem[Muko et~al., 2000]{Muko2000}
+Muko, S., Kawasaki, K., Sakai, K., Takasu, F., and Shigesada, N. (2000).
+\newblock Morphological plasticity in the coral porites sillimaniani and its
+  adaptive significance.
+\newblock {\em Bulletin of Marine Science}, 66(1):225--239.
+
 \bibitem[Mumby et~al., 2007]{Mumby2007}
 Mumby, P.~J., Hastings, A., and Edwards, H.~J. (2007).
 \newblock Thresholds and the resilience of caribbean coral reefs.
 \newblock {\em Nature}, 450(7166):98--101.
+
+\bibitem[Ortiz et~al., 2018]{Ortiz2018}
+Ortiz, J.-C., Wolff, N.~H., Anthony, K.~R., Devlin, M., Lewis, S., and Mumby,
+  P.~J. (2018).
+\newblock Impaired recovery of the great barrier reef under cumulative stress.
+\newblock {\em Science advances}, 4(7):eaar6127.
 
 \bibitem[Palumbi et~al., 2014]{Palumbi2014}
 Palumbi, S.~R., Barshis, D.~J., Traylor-Knowles, N., and Bay, R.~A. (2014).
@@ -456,10 +492,25 @@ Rocha, L.~A., Pinheiro, H.~T., Shepherd, B., Papastamatiou, Y.~P., Luiz, O.~J.,
   from shallow water reefs.
 \newblock {\em Science}, 361(6399):281--284.
 
+\bibitem[Roff et~al., 2013]{Roff2013}
+Roff, G., Clark, T.~R., Reymond, C.~E., Zhao, J.-x., Feng, Y., McCook, L.~J.,
+  Done, T.~J., and Pandolfi, J.~M. (2013).
+\newblock Palaeoecological evidence of a historical collapse of corals at
+  pelorus island, inshore great barrier reef, following european settlement.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  280(1750):20122100.
+
 \bibitem[Rosenfeld et~al., 1999]{Rosenfeld1999}
 Rosenfeld, M., Bresler, V., and Abelson, A. (1999).
 \newblock Sediment as a possible source of food for corals.
 \newblock {\em Ecology Letters}, 2(6):345--348.
+
+\bibitem[Safaie et~al., 2018]{Safaie2018}
+Safaie, A., Silbiger, N.~J., McClanahan, T.~R., Pawlak, G., Barshis, D.~J.,
+  Hench, J.~L., Rogers, J.~S., Williams, G.~J., and Davis, K.~A. (2018).
+\newblock High frequency temperature variability reduces the risk of coral
+  bleaching.
+\newblock {\em Nature communications}, 9(1):1671.
 
 \bibitem[Schumm, 1968]{Schumm1968}
 Schumm, S.~A. (1968).
@@ -505,11 +556,25 @@ Syvitski, J.~P., Vorosmarty, C.~J., Kettner, A.~J., and Green, P. (2005).
   coastal ocean.
 \newblock {\em science}, 308(5720):376--380.
 
+\bibitem[Tambutt{\'e} et~al., 2015]{Tambutte2015}
+Tambutt{\'e}, E., Venn, A., Holcomb, M., Segonds, N., Techer, N., Zoccola, D.,
+  Allemand, D., and Tambutt{\'e}, S. (2015).
+\newblock Morphological plasticity of the coral skeleton under co2-driven
+  seawater acidification.
+\newblock {\em Nature Communications}, 6(1):7368.
+
 \bibitem[Thompson et~al., 2014]{Thompson2014}
 Thompson, A., Schroeder, T., Brando, V.~E., and Schaffelke, B. (2014).
 \newblock Coral community responses to declining water quality: whitsunday
   islands, great barrier reef, australia.
 \newblock {\em Coral Reefs}, 33:923--938.
+
+\bibitem[Todd et~al., 2004]{Todd2004}
+Todd, P., Sidle, R.~C., and Lewin-Koh, N. (2004).
+\newblock An aquarium experiment for identifying the physical factors inducing
+  morphological change in two massive scleractinian corals.
+\newblock {\em Journal of experimental marine biology and ecology},
+  299(1):97--113.
 
 \bibitem[Todd, 2008]{Todd2008}
 Todd, P.~A. (2008).
@@ -521,6 +586,12 @@ Trimble, S.~W. (1999).
 \newblock Decreased rates of alluvial sediment storage in the coon creek basin,
   wisconsin, 1975-93.
 \newblock {\em Science}, 285(5431):1244--1246.
+
+\bibitem[Uthicke et~al., 2010]{Uthicke2010}
+Uthicke, S., Thompson, A., and Schaffelke, B. (2010).
+\newblock Effectiveness of benthic foraminiferal and coral assemblages as water
+  quality indicators on inshore reefs of the great barrier reef, australia.
+\newblock {\em Coral Reefs}, 29:209--225.
 
 \bibitem[Van~Woesik et~al., 1995]{Van1995}
 Van~Woesik, R., De~Vantier, L., and Glazebrook, J. (1995).
