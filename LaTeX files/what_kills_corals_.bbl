@@ -168,6 +168,12 @@ Delecat, S., Arp, G., and Reitner, J. (2011).
   hexactinellid sponges (northern calcareous alps, austria).
 \newblock {\em Advances in Stromatolite Geobiology}, pages 355--390.
 
+\bibitem[Duckworth et~al., 2012]{Duckworth2012}
+Duckworth, A.~R., West, L., Vansach, T., Stubler, A., and Hardt, M. (2012).
+\newblock Effects of water temperature and ph on growth and metabolite
+  biosynthesis of coral reef sponges.
+\newblock {\em Marine Ecology Progress Series}, 462:67--77.
+
 \bibitem[Eakin et~al., 2016]{Eakin2016}
 Eakin, C., Liu, G., Gomez, A., De~La~Cour, J., Heron, S., Skirving, W., Geiger,
   E., Tirak, K., and Strong, A. (2016).
@@ -642,8 +648,14 @@ Wang, X.-D. and Wang, X.-J. (2007).
 \newblock Extinction patterns of late permian (lopingian) corals in china.
 \newblock {\em Palaeoworld}, 16(1-3):31--38.
 
-\bibitem[Ward-Paige et~al., 2005]{WardPaige2005}
-Ward-Paige, C.~A., Risk, M.~J., Sherwood, O.~A., and Jaap, W.~C. (2005).
+\bibitem[Ward-Paige et~al., 2005a]{WardPaige2005Nitrogen}
+Ward-Paige, C.~A., Risk, M.~J., and Sherwood, O.~A. (2005a).
+\newblock Reconstruction of nitrogen sources on coral reefs: $\delta$15n and
+  $\delta$13c in gorgonians from florida reef tract.
+\newblock {\em Marine Ecology Progress Series}, 296:155--163.
+
+\bibitem[Ward-Paige et~al., 2005b]{WardPaige2005Sponge}
+Ward-Paige, C.~A., Risk, M.~J., Sherwood, O.~A., and Jaap, W.~C. (2005b).
 \newblock Clionid sponge surveys on the florida reef tract suggest land-based
   nutrient inputs.
 \newblock {\em Marine pollution bulletin}, 51(5-7):570--579.

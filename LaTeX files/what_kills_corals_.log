@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.28)  10 FEB 2023 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.28)  10 FEB 2023 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -569,27 +569,28 @@ Package natbib Warning: Citation `Elliot2016' on page 9 undefined on input line
 [24] [25] [26] [27] [28] [29] [30]
 
 Package natbib Warning: Citation `Reimer2010' on page 31 undefined on input lin
-e 610.
+e 612.
 
 (what_kills_corals_.bbl [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
-Underfull \hbox (badness 7558) in paragraph at lines 666--671
+[41]
+Underfull \hbox (badness 7558) in paragraph at lines 678--683
 []\OT1/cmr/m/n/10.95 Wilkinson, B. H. and McEl-roy, B. J. (2007).  The im-pact 
 of hu-mans on con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 666--671
+Underfull \hbox (badness 10000) in paragraph at lines 678--683
 \OT1/cmr/m/n/10.95 ti-nen-tal ero-sion and sed-i-men-ta-tion.  \OT1/cmr/m/it/10
 .95 GSA Bul-letin\OT1/cmr/m/n/10.95 , 119(1-2):140--156.  []eprint:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 666--671
+Underfull \hbox (badness 10000) in paragraph at lines 678--683
 \OT1/cmr/m/n/10.95 https://pubs.geoscienceworld.org/gsa/gsabulletin/article-pdf
 /119/1-2/140/3393680/i0016-7606-
  []
 
-[41])
+)
 
 Package natbib Warning: There were undefined citations.
 
@@ -598,13 +599,13 @@ Package rerunfilecheck Info: File `what_kills_corals_.out' has not changed.
 (rerunfilecheck)             Checksum: 6D15A63C56E395A8C3012A48CFD7D9A1;6098.
  ) 
 Here is how much of TeX's memory you used:
- 14269 strings out of 475385
- 261272 string characters out of 2775962
- 635237 words of memory out of 3000000
- 35284 multiletter control sequences out of 15000+600000
+ 14277 strings out of 475385
+ 261490 string characters out of 2775962
+ 636314 words of memory out of 3000000
+ 35290 multiletter control sequences out of 15000+600000
  479319 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,20n,120p,1772b,764s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 123i,20n,120p,1772b,761s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\r02cm21\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1095.pk><C:/Users/r02cm21/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/Users/r02cm21/AppData/Local/Programs/MiKTeX/fonts/type
@@ -618,9 +619,9 @@ pfb><C:/Users/r02cm21/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmr8.pfb><C:/Users/r02cm21/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Users/r02cm21/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb>
-Output written on what_kills_corals_.pdf (42 pages, 386957 bytes).
+Output written on what_kills_corals_.pdf (42 pages, 388996 bytes).
 PDF statistics:
- 976 PDF objects out of 1000 (max. 8388607)
- 195 named destinations out of 1000 (max. 500000)
+ 982 PDF objects out of 1000 (max. 8388607)
+ 197 named destinations out of 1000 (max. 500000)
  297 words of extra memory for PDF output out of 10000 (max. 10000000)
 
