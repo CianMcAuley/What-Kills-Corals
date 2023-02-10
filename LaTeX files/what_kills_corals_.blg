@@ -15,6 +15,7 @@ Warning--I didn't find a database entry for "Bruno2007"
 Warning--I didn't find a database entry for "Alison2022"
 Warning--I didn't find a database entry for "Million"
 Warning--I didn't find a database entry for "Elliot2016"
+Warning--I didn't find a database entry for "Reimer2010"
 Name 1 in "Collette, Bruce B., and Klaus Rützler" has a comma at the end for entry collette1977
 while executing---line 1023 of file apalike.bst
 Name 1 in "Collette, Bruce B., and Klaus Rützler" has a comma at the end for entry collette1977
@@ -23,45 +24,46 @@ Warning--empty booktitle in Coles2003
 Name 1 in "Collette, Bruce B., and Klaus Rützler" has a comma at the end for entry collette1977
 while executing---line 1098 of file apalike.bst
 Warning--empty journal in Manzello2012
-You've used 106 entries,
+Warning--empty journal in Schils2012
+You've used 114 entries,
             1935 wiz_defined-function locations,
-            1217 strings with 28597 characters,
-and the built_in function-call counts, 50991 in all, are:
-= -- 4871
-> -- 2841
-< -- 45
-+ -- 1039
-- -- 1014
-* -- 4859
-:= -- 8919
-add.period$ -- 325
-call.type$ -- 106
-change.case$ -- 1028
-chr.to.int$ -- 103
-cite$ -- 108
-duplicate$ -- 1564
-empty$ -- 3134
-format.name$ -- 1166
-if$ -- 9679
+            1267 strings with 30347 characters,
+and the built_in function-call counts, 54425 in all, are:
+= -- 5212
+> -- 2988
+< -- 49
++ -- 1091
+- -- 1064
+* -- 5166
+:= -- 9509
+add.period$ -- 348
+call.type$ -- 114
+change.case$ -- 1093
+chr.to.int$ -- 111
+cite$ -- 117
+duplicate$ -- 1684
+empty$ -- 3366
+format.name$ -- 1226
+if$ -- 10342
 int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 106
-newline$ -- 534
-num.names$ -- 318
-pop$ -- 822
+missing$ -- 114
+newline$ -- 573
+num.names$ -- 342
+pop$ -- 874
 preamble$ -- 1
-purify$ -- 1028
+purify$ -- 1093
 quote$ -- 0
-skip$ -- 1179
+skip$ -- 1274
 stack$ -- 0
-substring$ -- 3595
-swap$ -- 167
-text.length$ -- 10
+substring$ -- 3869
+swap$ -- 183
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 636
-warning$ -- 2
-while$ -- 401
+type$ -- 684
+warning$ -- 3
+while$ -- 432
 width$ -- 0
-write$ -- 1387
+write$ -- 1488
 (There were 4 error messages)
