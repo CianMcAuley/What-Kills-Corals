@@ -26,45 +26,45 @@ Name 1 in "Collette, Bruce B., and Klaus Rützler" has a comma at the end for en
 while executing---line 1098 of file apalike.bst
 Warning--empty journal in Manzello2012
 Warning--empty journal in Schils2012
-You've used 117 entries,
+You've used 118 entries,
             1935 wiz_defined-function locations,
-            1287 strings with 31044 characters,
-and the built_in function-call counts, 55805 in all, are:
-= -- 5347
-> -- 3062
+            1293 strings with 31191 characters,
+and the built_in function-call counts, 56216 in all, are:
+= -- 5388
+> -- 3080
 < -- 49
-+ -- 1118
-- -- 1090
-* -- 5296
-:= -- 9753
-add.period$ -- 357
-call.type$ -- 117
-change.case$ -- 1120
-chr.to.int$ -- 113
-cite$ -- 120
-duplicate$ -- 1726
-empty$ -- 3452
-format.name$ -- 1255
-if$ -- 10602
++ -- 1124
+- -- 1096
+* -- 5335
+:= -- 9825
+add.period$ -- 360
+call.type$ -- 118
+change.case$ -- 1128
+chr.to.int$ -- 114
+cite$ -- 121
+duplicate$ -- 1740
+empty$ -- 3480
+format.name$ -- 1262
+if$ -- 10680
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 117
-newline$ -- 588
-num.names$ -- 351
-pop$ -- 895
+missing$ -- 118
+newline$ -- 593
+num.names$ -- 354
+pop$ -- 901
 preamble$ -- 1
-purify$ -- 1120
+purify$ -- 1128
 quote$ -- 0
-skip$ -- 1304
+skip$ -- 1314
 stack$ -- 0
-substring$ -- 3974
-swap$ -- 186
+substring$ -- 4005
+swap$ -- 187
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 702
+type$ -- 708
 warning$ -- 3
-while$ -- 444
+while$ -- 448
 width$ -- 0
-write$ -- 1527
+write$ -- 1540
 (There were 4 error messages)
